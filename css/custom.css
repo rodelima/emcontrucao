@@ -1,0 +1,10 @@
+/*! Place your custom styles here */
+
+.btn--primary, .btn--primary:visited {
+    background: #d8a200;
+    border-color: #d8a200;
+}
+#menu1 ul li a {
+    opacity: 0.6;
+    font-size: 1em;
+}
