@@ -11,3 +11,12 @@
 .feature p {
     margin-left: 0;
 }
+.feature:not(.boxed) {
+    margin-bottom: 3em;
+}
+.parallax > .background-image-holder, .parallax .slides li > .background-image-holder {
+    height: 130%;
+}
+.icon--md {
+    font-size: 4.2em;
+}
